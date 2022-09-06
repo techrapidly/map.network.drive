@@ -1,6 +1,6 @@
 # how to map a network drive
 
-[![map network drive](get-startted.png)](https://computersolve.com/how-to-map-a-network-drive/)
+[![map network drive](get-startted.png)](https://icncomputer.com/how-to-map-a-network-drive/)
 
 This wikiHow teaches you how to turn a folder on your computer network into a shared drive. In order to do this, your computer must be on the same network as the computer on which the drive folder resides. You can map a network drive on both Windows and Mac computers.
 
